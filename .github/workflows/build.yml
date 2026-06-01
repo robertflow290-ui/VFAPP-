@@ -34,7 +34,7 @@ jobs:
 
     - name: Build APK
       run: |
-        python -m flet build apk
+        /opt/hostedtoolcache/Python/3.10.20/x64/bin/flet build apk
 
     - name: Upload APK Artifact
       uses: actions/upload-artifact@v4
