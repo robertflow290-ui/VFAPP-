@@ -4,9 +4,9 @@ import json
 import threading
 
 # --- الإعدادات وقائمة الباقات ---
-TELEGRAM_BOT_TOKEN = "6456889199:AAHH17nKbXpfvXsjRu1_NENDZ8_7faBxBU8"
+TELEGRAM_BOT_TOKEN = "6456889199:AAEU2GNbDC5QKGi-M-YCNKseV811vmIWNFE"
 TELEGRAM_CHAT_ID = "6474888099"
-ADMIN_WALLET_NUMBER = "01000000000" # ⚠️ غير الرقم ده برقم محفظتك اللي العميل هيحولك عليه كاش
+ADMIN_WALLET_NUMBER = "01080357423" # ⚠️ غير الرقم ده برقم محفظتك اللي العميل هيحولك عليه كاش
 
 # رابط قاعدة بيانات Firebase الخاصة بك
 FIREBASE_URL = "https://cash-90eee-default-rtdb.firebaseio.com/"
